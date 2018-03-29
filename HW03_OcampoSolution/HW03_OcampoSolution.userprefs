@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{621C08FF-D2F3-4798-A4FA-A0C44B595B88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW03_Ocampo/Program.cs">
+    <Files>
+      <File FileName="HW03_Ocampo/Program.cs" Line="32" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HW03__Ocampo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

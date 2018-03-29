@@ -1,0 +1,12 @@
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.UGH.resources
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.GenerateResource.Cache
+C:\Users\viann_000\Documents\NOOB\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.Properties.Resources.resources
+C:\Users\viann_000\Documents\NOOB\Sorter-Borja 150614- Ocampo 153070\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\viann_000\Documents\NOOB\Sorter-Borja 150614- Ocampo 153070\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\viann_000\Documents\NOOB\Sorter-Borja 150614- Ocampo 153070\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

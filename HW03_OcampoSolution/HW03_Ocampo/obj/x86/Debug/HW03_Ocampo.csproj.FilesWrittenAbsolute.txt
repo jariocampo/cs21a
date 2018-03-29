@@ -1,0 +1,5 @@
+/Users/jariocampo/Projects/HW03_OcampoSolution/HW03_Ocampo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jariocampo/Projects/HW03_OcampoSolution/HW03_Ocampo/bin/Debug/HW03_Ocampo.exe.mdb
+/Users/jariocampo/Projects/HW03_OcampoSolution/HW03_Ocampo/bin/Debug/HW03_Ocampo.exe
+/Users/jariocampo/Projects/HW03_OcampoSolution/HW03_Ocampo/obj/x86/Debug/HW03_Ocampo.exe
+/Users/jariocampo/Projects/HW03_OcampoSolution/HW03_Ocampo/obj/x86/Debug/HW03_Ocampo.exe.mdb

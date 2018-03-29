@@ -1,0 +1,5 @@
+/Volumes/JARI/HW03_153070Solution/HW03_153070/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/JARI/HW03_153070Solution/HW03_153070/bin/Debug/HW03_153070.exe.mdb
+/Volumes/JARI/HW03_153070Solution/HW03_153070/bin/Debug/HW03_153070.exe
+/Volumes/JARI/HW03_153070Solution/HW03_153070/obj/x86/Debug/HW03_153070.exe
+/Volumes/JARI/HW03_153070Solution/HW03_153070/obj/x86/Debug/HW03_153070.exe.mdb
